@@ -1,0 +1,25 @@
+{
+  "name": "osirislegacy",
+  "version": "1.0.0",
+  "description": "> **\"When digital ownership becomes a lease, preservation becomes an act of resistance.\"**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xolrak/OsirisLegacy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Xolrak/OsirisLegacy/issues"
+  },
+  "homepage": "https://github.com/Xolrak/OsirisLegacy#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "electron": "^43.0.0"
+  }
+}
